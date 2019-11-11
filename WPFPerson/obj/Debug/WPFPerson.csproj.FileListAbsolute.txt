@@ -1,0 +1,15 @@
+D:\Schule\4.Klasse\POS\Project3\WPFPerson\WPFPerson\bin\Debug\WPFPerson.exe.config
+D:\Schule\4.Klasse\POS\Project3\WPFPerson\WPFPerson\bin\Debug\WPFPerson.exe
+D:\Schule\4.Klasse\POS\Project3\WPFPerson\WPFPerson\bin\Debug\WPFPerson.pdb
+D:\Schule\4.Klasse\POS\Project3\WPFPerson\WPFPerson\obj\Debug\WPFPerson.csprojAssemblyReference.cache
+D:\Schule\4.Klasse\POS\Project3\WPFPerson\WPFPerson\obj\Debug\MainWindow.g.cs
+D:\Schule\4.Klasse\POS\Project3\WPFPerson\WPFPerson\obj\Debug\App.g.cs
+D:\Schule\4.Klasse\POS\Project3\WPFPerson\WPFPerson\obj\Debug\WPFPerson_MarkupCompile.cache
+D:\Schule\4.Klasse\POS\Project3\WPFPerson\WPFPerson\obj\Debug\WPFPerson_MarkupCompile.lref
+D:\Schule\4.Klasse\POS\Project3\WPFPerson\WPFPerson\obj\Debug\MainWindow.baml
+D:\Schule\4.Klasse\POS\Project3\WPFPerson\WPFPerson\obj\Debug\WPFPerson.g.resources
+D:\Schule\4.Klasse\POS\Project3\WPFPerson\WPFPerson\obj\Debug\WPFPerson.Properties.Resources.resources
+D:\Schule\4.Klasse\POS\Project3\WPFPerson\WPFPerson\obj\Debug\WPFPerson.csproj.GenerateResource.cache
+D:\Schule\4.Klasse\POS\Project3\WPFPerson\WPFPerson\obj\Debug\WPFPerson.csproj.CoreCompileInputs.cache
+D:\Schule\4.Klasse\POS\Project3\WPFPerson\WPFPerson\obj\Debug\WPFPerson.exe
+D:\Schule\4.Klasse\POS\Project3\WPFPerson\WPFPerson\obj\Debug\WPFPerson.pdb
